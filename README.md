@@ -126,6 +126,12 @@ pip install   cryptography==2.9.2
 If you face any trouble while implementing those modules try adding these lines before every module
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
 
+# Base Papers
+* https://ieeexplore.ieee.org/abstract/document/9985723
+* https://www.nature.com/articles/s41598-022-15634-4.pdf
+*  https://www.taylorfrancis.com/chapters/edit/10.1201/9781032665535-47/transfer-learning-based-kidney-stone-detection-patients-using-resnet50-medical-images-47-naresh-jahnavi-reddy-prem-kumar-ch-nikhil-chandu
+
+
 # REFERENCES
 [1] K. K. Shung, “High frequency ultrasonic imaging,” Journal of Medical Ultrasound, vol. 17, no. 1, pp. 25–30, 
 2009. 
@@ -141,9 +147,4 @@ Technology (MPCIT), Shivamogga, India, pp. 172–183, 2020.
 level set segmentation using xilinx system generator on FPGA,” VLSI Design, vol. 5, no. 3, pp. 573–581, 2159. 
 [7] Q. Yuan, H. Zhang and T. Deng, “Role of artifificial intelligence in kidney disease,” International Journal of 
 Medical Sciences, vol. 17, no. 7, pp. 970–984, 2009 . 
-[8] A. Martinez, D. Trinh and J. Hubert, “Towards an automated classifification method for ureteroscopic kidney stone 
-
-# Base Papers
-* https://ieeexplore.ieee.org/abstract/document/9985723
-* https://www.nature.com/articles/s41598-022-15634-4.pdf
-*  https://www.taylorfrancis.com/chapters/edit/10.1201/9781032665535-47/transfer-learning-based-kidney-stone-detection-patients-using-resnet50-medical-images-47-naresh-jahnavi-reddy-prem-kumar-ch-nikhil-chandu
+[8] A. Martinez, D. Trinh and J. Hubert, “Towards an automated classifification method for ureteroscopic kidney stone
