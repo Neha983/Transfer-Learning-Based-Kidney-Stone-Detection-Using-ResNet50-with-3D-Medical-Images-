@@ -135,16 +135,23 @@ python -m pip install --trusted-host pypi.python.org --trusted-host files.python
 # REFERENCES
 [1] K. K. Shung, “High frequency ultrasonic imaging,” Journal of Medical Ultrasound, vol. 17, no. 1, pp. 25–30, 
 2009. 
+
 [2] J. S. Jose, “An effificient diagnosis of kidney images using association rule,” International Journal of Computer 
 Technology Electronic Engineering, vol. 12, no. 2, pp. 14–20, 2012. 
+
 [3] C. Cortes and V. Vapnik, “Support-vector networks,” Journal of Machine Learning, vol. 20, no. 3, pp. 273–297, 1995.
+
 [4] K. He, X. Zhang, S. Ren and J. Sun, “Deep residual learning for image recognition,” in IEEE Conf. on Computer 
 Vision and Pattern Recognition, Las Vegas, USA, pp. 770–778, 2016. 
+
 [5] A. Soni and A. Rai, “Kidney stone recognition and extraction using directional emboss & SVM from computed 
 tomography images,” in 2020 Third Int. Conf. on Multimedia Processing, Communication & Information 
 Technology (MPCIT), Shivamogga, India, pp. 172–183, 2020. 
+
 [6] K. Viswanath and R. Gunasundari, “Analysis and implementation of kidney stone detection by reaction diffusion 
-level set segmentation using xilinx system generator on FPGA,” VLSI Design, vol. 5, no. 3, pp. 573–581, 2159. 
+level set segmentation using xilinx system generator on FPGA,” VLSI Design, vol. 5, no. 3, pp. 573–581, 2159.
+
 [7] Q. Yuan, H. Zhang and T. Deng, “Role of artifificial intelligence in kidney disease,” International Journal of 
 Medical Sciences, vol. 17, no. 7, pp. 970–984, 2009 . 
+
 [8] A. Martinez, D. Trinh and J. Hubert, “Towards an automated classifification method for ureteroscopic kidney stone
